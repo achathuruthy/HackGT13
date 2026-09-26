@@ -59,3 +59,5 @@ If you already have a Git checkout, skip `git init` and preserve its existing re
 [Product spec, development plan and legal-source audit](docs/MVP-HANDOFF.md) · [Full directory](FULL-DIRECTORY.txt)
 
 Live model accuracy is not validated without a credential and representative evaluation data. Findings require human review. Legal references are information, not legal advice or official findings. Exporting a notice does not send it. All original evidence and sensitive details should be reviewed before sharing packets.
+
+We winning this.
